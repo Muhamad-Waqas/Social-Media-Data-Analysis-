@@ -21,6 +21,12 @@ It explores key metrics such as likes, shares, comments, impressions, and engage
 The workflow combines **data cleaning, exploratory data analysis (EDA), and visualization techniques** to generate meaningful and actionable insights.
 
 ---
+📊 Automated EDA Report
+
+An interactive Exploratory Data Analysis report was generated using ydata-profiling, providing a detailed overview of the dataset including distributions, correlations, and missing values.
+
+👉 View Full EDA Report:
+Click here to view the report: https://github.com/Muhamad-Waqas/Social-Media-Data-Analysis-/blob/main/eda_report.html
 
 ## 🚀 Key Features
 
